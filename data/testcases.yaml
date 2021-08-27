@@ -1,0 +1,20 @@
+- title: 输入正确的key和phone，返回正确数据
+  url: /mobile/get
+  method: get
+  header:
+  datas:
+    phone: 13143337574
+    key: f4736e458e0b55adb85ac3ce15203f76
+  expect:
+    error_code: 0
+    reason: Return Successd!
+- title: 输入正确的key和city（城市ID），返回正确数据
+  url: /simpleWeather/query
+  method: get
+  header:
+  datas:
+    city: 1
+    key: e74a4d2a8c06076982dbbc3c6e3d2032
+  expect:
+    error_code: 0
+    reason: 查询成功!

@@ -1,0 +1,2 @@
+[32mINFO    [0m million_logger:api_weather.py:25 正在调用天气查询接口，数据为：city=1&key=e74a4d2a8c06076982dbbc3c6e3d2032
+[32mINFO    [0m million_logger:tool.py:9 正在调用公共断言方法

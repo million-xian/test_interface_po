@@ -1,0 +1,5 @@
+[32mINFO    [0m million_logger:api_weather.py:11 初始化手机归属地查询接口url:http://apis.juhe.cn/mobile/get
+[32mINFO    [0m million_logger:api_weather.py:14 初始化天气查询接口url:http://apis.juhe.cn/simpleWeather/query
+[32mINFO    [0m million_logger:api_weather.py:19 正在调用手机归属地查询接口，请求数据为：phone=13143337574&key=f4736e458e0b55adb85ac3ce15203f76
+[32mINFO    [0m million_logger:tool.py:9 正在调用公共断言方法
+[32mINFO    [0m million_logger:tool.py:18 提取手机号归属地：广州
